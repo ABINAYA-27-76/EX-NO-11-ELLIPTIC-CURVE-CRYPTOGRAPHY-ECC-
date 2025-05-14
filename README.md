@@ -99,6 +99,5 @@ return 0;
 ![Screenshot (203)](https://github.com/user-attachments/assets/54cb31b1-3646-41ff-8a30-2b70a8e3b3a5)
 
 ## Result:
-Thus,the program excuted successfully.
 The program is executed successfully
 
